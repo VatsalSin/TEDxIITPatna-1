@@ -1,0 +1,1 @@
+[23-Oct-2016 11:52:50 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 4248 bytes) in /home/webdevtedx/public_html/include/header.php on line 1
